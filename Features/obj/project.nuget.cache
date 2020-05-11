@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+moqpfooVGdVOUr0jm1CC5BdTV7AeBtj4ZtCOCfY9HAip3Fn2nHTOlFEpbigZB2URDZhuaCt/qAmIVWtXy9WBA==",
+  "success": true,
+  "projectFilePath": "C:\\Project\\DEVELOPMENT_VM\\C#\\Linq\\LinqSamples\\Features\\Features.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\i_m_a_n\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\i_m_a_n\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\i_m_a_n\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\i_m_a_n\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\i_m_a_n\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\i_m_a_n\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\i_m_a_n\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
